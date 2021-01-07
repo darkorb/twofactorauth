@@ -220,6 +220,12 @@ websites:
     regions:
       - au
 
+  - name: Sharesies
+    url: https://sharesies.nz
+    twitter: SharesiesNZ
+    facebook: Sharesies
+    img: sharesies.png
+
   - name: SigFig
     url: https://www.sigfig.com/
     twitter: SigFigInsider
